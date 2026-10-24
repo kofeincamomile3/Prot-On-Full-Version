@@ -240,4 +240,4 @@ This repository serves as the official landing page for Prot-On. The software is
 **Get the most recent version of Prot-On today!**
 
 ---
-**Last updated:** 2026-10-24 19:08:00 UTC
+**Last updated:** 2026-10-24 22:04:44 UTC
